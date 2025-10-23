@@ -16,11 +16,6 @@ git config --global user.name "YOUR_NAME"
 git config --global user.email "YOUR_EMAIL"
 ```
 
-### Username and Password
-
-Username: BUAAZhangHaonan
-Password: ......
-
 ### 关联github仓库
 
 #### 如果本地仓库没有git初始化，初始化，关联仓库
