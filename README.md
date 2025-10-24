@@ -1,4 +1,4 @@
-# MGM_Mask2Former
+# AI2025-MLLM
 
 ## github设置
 
@@ -22,16 +22,16 @@ git config --global user.email "YOUR_EMAIL"
 
 ```bash
 git init
-git remote add origin https://github.com/BUAAZhangHaonan/mgm_mask2former.git
+git remote add origin https://github.com/BUAAZhangHaonan/AI2025-MLLM.git
 ```
 
 #### 如果本地仓库已经git初始化，删除已有.git文件夹，重新初始化，关联仓库
 
 ```bash
 cd workspace
-rm -rf ./mask2former/.git
+rm -rf ./AI2025-MLLM/.git
 cd ..
-git remote add origin https://github.com/BUAAZhangHaonan/mgm_mask2former.git
+git remote add origin https://github.com/BUAAZhangHaonan/AI2025-MLLM.git
 ```
 
 #### 新建git分支
